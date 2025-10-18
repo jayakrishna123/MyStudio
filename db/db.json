@@ -1,0 +1,20 @@
+{
+"services": [
+{
+"id": 1,
+"title": "Mobile App Creation",
+"summary": "End-to-end mobile app development for iOS & Android.",
+"price": "from $5,000",
+"features": ["Design", "Development", "QA", "Deployment"],
+"color": "#7C3AED"
+},
+{
+"id": 2,
+"title": "Website Creation",
+"summary": "SEO-friendly, responsive websites with CMS options.",
+"price": "from $2,000",
+"features": ["UI/UX", "Responsive", "Performance"],
+"color": "#06B6D4"
+}
+]
+}
