@@ -6,7 +6,7 @@ import Footer from "./components/Footer";
 export default function App() {
   return (
     <BrowserRouter>
-      <div className="min-h-screen flex flex-col bg-gradient-to-b from-white via-slate-50 to-white">
+      <div className="relative overflow-hidden bg-gradient-to-br from-indigo-100 via-pink-100 to-yellow-100 flex flex-col">
         <Header />
         <main className="flex-1">
           <RoutesApp />
